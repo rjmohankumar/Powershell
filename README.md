@@ -1,2 +1,2 @@
 # Powershell
-Powershell code for all automation
+Powershell code for all automation for all sort of manual works
